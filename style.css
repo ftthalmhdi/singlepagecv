@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+    background-color: #FEF9F2;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    padding: 2rem;
+    background-color: white;
+}
+
+.inside{
+    background-color: white;
+}
+
+.line{
+    margin-bottom: 15px;
+}
+
+.mrg-btm{
+    margin-bottom: 15px;
+}
+p{
+    font-size: medium;
+}
+
+.grn-mark{
+    color: green;
+}
